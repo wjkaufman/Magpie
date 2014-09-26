@@ -3,3 +3,11 @@ Activity 2:
     When more than one word appears in a string, the Magpie program responds to the word that first appears in the list of “else if” statements in the getResponse method.
   Questions:
     1. When a keyword is included in another word, the program still acts as if it is a standalone word.  “Know” is treated as “no” and “smothered” as “mother.”
+
+
+
+Activity 3:
+
+findKeyword(“She’s my sister”, “sister”, 0):
+Iteration, psn, before, after
+1, 9, “ “, “”
