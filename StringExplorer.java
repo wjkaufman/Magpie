@@ -12,7 +12,7 @@ public class StringExplorer
 		String sample = "The quick brown fox jumped over the lazy dog.";
 		
 		//  Demonstrate the indexOf method.
-		int position = sample.indexOf("quick");
+		int position = sample.indexOf("quick", 5);
 		System.out.println ("sample.indexOf(\"quick\") = " + position);
 		
 		//  Demonstrate the toLowerCase method.
